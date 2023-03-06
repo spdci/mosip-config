@@ -1,3 +1,10 @@
+![Logo](https://sp-convergence.org/wp-content/uploads/2021/11/cropped-Logotipo1-3.png)
+# MOSIP and DCI
+
+This repository is currently archived in the DCI repository, as it has been forked of MOSIP **without modifications**.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # MOSIP Configuration
 
 ## Configuration properties
